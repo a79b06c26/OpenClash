@@ -1,0 +1,7 @@
+cd /etc/openclash/core/ 
+
+wget https://github.com/vernesong/OpenClash/releases/download/Clash/clash-linux-armv8.tar.gz
+
+tar -zxvf clash-linux-armv8.tar.gz
+
+chmod 777 clash
